@@ -37,6 +37,3 @@ patient_info = {
 patient = Patient(**patient_info)
 
 insert_patient_data(patient)
-patient = Patient(**patient_info)
-
-insert_patient_data(patient)
